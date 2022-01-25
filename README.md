@@ -19,7 +19,6 @@ Once the package is installed, the library can be load using the standard comman
     library(rlgd)
 
 ### Dataset Import
-
 First, you need to import a dataset (with a set of categorical variables Xi and a categorical variable Y). In this example, we will use the breast_cancer dataset. This dataset is included in the rlgd package.
 
     breast_cancer <- rlgd::breast_cancer
